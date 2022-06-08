@@ -1,0 +1,60 @@
+@media (min-width: 660px) {
+
+
+  .c1{
+    width: 129px;
+    transform: translate(-241px, -70px);
+  }
+
+  .c2{
+    width: 175px;
+    transform: translate(-169px, -97px);
+  }
+
+  .c3{
+    width: 113px;
+    transform: translate(-14px, -139px);
+  }
+
+  .c4{
+    width: 218px;
+    transform: translate(1px, -245px);
+  }
+
+  .c5{
+    width: 112px;
+    transform: translate(-291px, 137px);
+  }
+
+  .c6{
+    width: 170px;
+    transform: translate(201px, -263px);
+  }
+
+
+  .ic-therm {
+    width: 33px;
+    transform: translate(-204px, 13px);
+  }
+
+  .ic-hum{
+    width: 38px;
+    transform: translate(-100px, -70px);
+  }
+
+  .ic-ph{
+    width: 49px;
+    transform: translate(13px, -71px);
+  }
+
+  .ic-oxi{
+    width: 85px;
+    transform: translate(64px, -209px);
+  }
+
+  .modal-box {
+    width: 50%;
+    height: 70%;
+  }
+
+}
