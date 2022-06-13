@@ -1,7 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128.972" height="91.259" viewBox="0 0 128.972 91.259">
-  <g id="Ossigeno" transform="matrix(1, 0.017, -0.017, 1, 0.712, -1.927)">
-    <circle id="Ellisse_5" data-name="Ellisse 5" cx="27.717" cy="27.717" r="27.717" transform="translate(0 40.778) rotate(-20)" fill="#fff"/>
-    <ellipse id="Ellisse_6" data-name="Ellisse 6" cx="27.717" cy="27.437" rx="27.717" ry="27.437" transform="translate(58.32 18.96) rotate(-20)" fill="#fff"/>
-    <path id="Tracciato_1" data-name="Tracciato 1" d="M0,.543a64.76,64.76,0,0,0,7.156.773A22.846,22.846,0,0,0,14.848,0l.092,5.7A26.156,26.156,0,0,0,7.289,4.639,28.825,28.825,0,0,0,.016,5.649Z" transform="translate(64.839 38.739) rotate(70)" fill="#fff"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="146.972" height="109.259" viewBox="0 0 146.972 109.259">
+  <defs>
+    <filter id="Ellisse_5" x="0" y="20.797" width="88.462" height="88.462" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellisse_6" x="58.692" y="0" width="88.28" height="87.933" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Tracciato_1" x="59.472" y="37.937" width="28.256" height="33.982" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Ossigeno" transform="matrix(1, 0.017, -0.017, 1, 9.712, 4.073)">
+    <g transform="matrix(1, -0.02, 0.02, 1, -9.78, -3.9)" filter="url(#Ellisse_5)">
+      <circle id="Ellisse_5-2" data-name="Ellisse 5" cx="27.717" cy="27.717" r="27.717" transform="matrix(0.95, -0.33, 0.33, 0.95, 9, 44.84)" fill="#fff"/>
+    </g>
+    <path id="Tracciato_40" data-name="Tracciato 40" d="M22.314,0c12.324,0,12.324,47.932,0,47.932S0,37.2,0,23.966,9.99,0,22.314,0Z" transform="translate(5.213 72.488) rotate(-72)" fill="#9ed3c8"/>
+    <g transform="matrix(1, -0.02, 0.02, 1, -9.78, -3.9)" filter="url(#Ellisse_6)">
+      <ellipse id="Ellisse_6-2" data-name="Ellisse 6" cx="27.717" cy="27.437" rx="27.717" ry="27.437" transform="matrix(0.95, -0.33, 0.33, 0.95, 67.69, 24.05)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, -0.02, 0.02, 1, -9.78, -3.9)" filter="url(#Tracciato_1)">
+      <path id="Tracciato_1-2" data-name="Tracciato 1" d="M0,.543a64.76,64.76,0,0,0,7.156.773A22.846,22.846,0,0,0,14.848,0l.092,5.7A26.156,26.156,0,0,0,7.289,4.639,28.825,28.825,0,0,0,.016,5.649Z" transform="matrix(0.33, 0.95, -0.95, 0.33, 73.86, 43.94)" fill="#fff"/>
+    </g>
+    <path id="Tracciato_41" data-name="Tracciato 41" d="M22.314,0c12.324,0,12.324,47.932,0,47.932S0,37.2,0,23.966,9.99,0,22.314,0Z" transform="translate(63.762 49.456) rotate(-72)" fill="#9ed3c8"/>
   </g>
 </svg>
