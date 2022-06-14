@@ -24,43 +24,43 @@ html{
 }
 
 .c1{
-  width: 114px;
-  transform: translate(-173px, 60px) rotate(-26deg);
+  width: 84px;
+  transform: translate(-133px, 60px) rotate(-26deg);
 }
 
 .c2{
-  width: 130px;
-  transform: translate(-186px, -11px) rotate(-26deg);
+  width: 97px;
+  transform: translate(-143px, 8px) rotate(-26deg);
 }
 
 .c3{
-  width: 128px;
-  transform: translate(-96px, -64px) rotate(-26deg);
+  width: 95px;
+  transform: translate(-77px, -30px) rotate(-26deg);
 }
 
 .c4{
-  width: 113px;
-  transform: translate(7px, -97px) rotate(-26deg);
+  width: 83px;
+  transform: translate(-2px, -54px) rotate(-26deg);
 }
 
 .c5{
-  width: 120px;
-  transform: translate(-33px, -189px) rotate(-26deg);
+  width: 90px;
+  transform: translate(-32px, -123px) rotate(-26deg);
 }
 
 .c6{
-  width: 189px;
-  transform: translate(-29px, -274px) rotate(-26deg);
+  width: 142px;
+  transform: translate(-29px, -187px) rotate(-26deg);
 }
 
 .c7{
-  width: 112px;
-  transform: translate(-138px, 237px) rotate(-26deg);
+  width: 82px;
+  transform: translate(-107px, 190px) rotate(-26deg);
 }
 
 .c8{
-  width: 116px;
-  transform: translate(109px, -333px) rotate(-26deg);
+  width: 86px;
+  transform: translate(74px, -231px) rotate(-26deg);
 }
 
 .ic{
@@ -73,33 +73,33 @@ html{
 }
 
 .ic-therm {
-  width: 29px;
-  transform: translate(-124px, 139px);
+  width: 25px;
+  transform: translate(-98px, 114px);
 }
 
 .ic-heating{
-  width: 55px;
-  transform: translate(-143px, 29px);
+  width: 38px;
+  transform: translate(-107px, 41px);
 }
 
 .ic-hum{
-  width: 41px;
-  transform: translate(-62px, -34px);
+  width: 31px;
+  transform: translate(-51px, -11px);
 }
 
 .ic-ph{
-  width: 42px;
-  transform: translate(39px, -49px) rotate(-16deg);
+  width: 30px;
+  transform: translate(28px, -20px) rotate(-16deg);
 }
 
 .ic-sal{
-  width: 53px;
-  transform: translate(2px, -147px);
+  width: 38px;
+  transform: translate(-4px, -91px);
 }
 
 .ic-oxi{
-  width: 84px;
-  transform: translate(26px, -252px) rotate(-16deg);
+  width: 70px;
+  transform: translate(6px, -172px) rotate(-16deg);
 }
 
 
@@ -128,9 +128,7 @@ html{
   top: 150%;
   left: 50%;
   width: 70%;
-  height: 70%;
-  min-width: 315px;
-  min-height: 580px;
+  height: 80%;
   transform: translate(-50%, -50%);
   background-color: #fff;
   box-shadow: 0 0 14px rgba(52, 106, 95, 0.81);
@@ -157,7 +155,7 @@ html{
 .modal-visual{
   position: absolute;
   display: block;
-  height: 40%;
+  height: 30%;
   width: 100%;
   background-color: #236281;
 }
@@ -166,14 +164,20 @@ html{
   position: absolute;
   display: block;
   box-sizing: border-box;
-  height: 60%;
+  height: 70%;
   width: 100%;
-  top: 40%;
-  padding: 3rem;
+  top: 30%;
+  padding: 2rem;
 }
 
 .modal-title h2{
   margin-top: 0;
+  font-size: 1.1rem;
+}
+
+.modal-contents .modal-content{
+  font-size: 0.8rem;
+  overflow: hidden;
 }
 
 .modal-visual-img{
@@ -181,6 +185,7 @@ html{
   position: absolute;
   top: 50%;
   left: 50%;
+  height: 50%;
   transform: translate(-50%, -50%);
 }
 
