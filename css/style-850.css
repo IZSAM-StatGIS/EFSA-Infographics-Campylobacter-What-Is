@@ -3,6 +3,7 @@
   .modal-box {
     width: 70%;
     height: 40%;
+    min-height: 350px;
   }
 
   .modal-visual{

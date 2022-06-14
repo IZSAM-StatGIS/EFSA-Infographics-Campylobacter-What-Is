@@ -130,6 +130,7 @@ html{
   width: 70%;
   height: 70%;
   min-width: 315px;
+  min-height: 580px;
   transform: translate(-50%, -50%);
   background-color: #fff;
   box-shadow: 0 0 14px rgba(52, 106, 95, 0.81);
