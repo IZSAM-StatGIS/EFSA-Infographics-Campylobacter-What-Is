@@ -93,4 +93,8 @@
     left: 40%;
   }
 
+  .modal-visual-img {
+    height: auto;
+  }
+
 }
