@@ -1,56 +1,5 @@
 @media (min-width: 850px) {
 
-  .c1{
-    width: 150px;
-    transform: translate(-280px, -65px);
-  }
-
-  .c2{
-    width: 205px;
-    transform: translate(-196px, -97px);
-  }
-
-  .c3{
-    width: 131px;
-    transform: translate(-14px, -145px);
-  }
-
-  .c4{
-    width: 253px;
-    transform: translate(3px, -268px);
-  }
-
-  .c5{
-    width: 142px;
-    transform: translate(-349px, 175px);
-  }
-
-  .c6{
-    width: 210px;
-    transform: translate(231px, -299px);
-  }
-
-
-  .ic-therm {
-    width: 38px;
-    transform: translate(-237px, 32px);
-  }
-
-  .ic-hum{
-    width: 50px;
-    transform: translate(-114px, -68px);
-  }
-
-  .ic-ph{
-    width: 57px;
-    transform: translate(20px, -65px);
-  }
-
-  .ic-oxi{
-    width: 118px;
-    transform: translate(69px, -232px);
-  }
-
   .modal-box {
     width: 70%;
     height: 40%;

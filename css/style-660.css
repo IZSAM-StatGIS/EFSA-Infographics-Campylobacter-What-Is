@@ -3,53 +3,73 @@
 
   .c1{
     width: 129px;
-    transform: translate(-241px, -70px);
+    transform: translate(-281px, -28px);
   }
 
   .c2{
-    width: 175px;
-    transform: translate(-169px, -97px);
+    width: 149px;
+    transform: translate(-254px, -101px);
   }
 
   .c3{
-    width: 113px;
-    transform: translate(-14px, -139px);
+    width: 146px;
+    transform: translate(-132px, -110px);
   }
 
   .c4{
-    width: 218px;
-    transform: translate(1px, -245px);
+    width: 127px;
+    transform: translate(-10px, -96px);
   }
 
   .c5{
-    width: 112px;
-    transform: translate(-291px, 137px);
+    width: 136px;
+    transform: translate(-3px, -206px);
   }
 
   .c6{
+    width: 214px;
+    transform: translate(41px, -273px);
+  }
+
+  .c7{
+    width: 112px;
+    transform: translate(-322px, 167px);
+  }
+
+  .c8{
     width: 170px;
-    transform: translate(201px, -263px);
+    transform: translate(234px, -291px);
   }
 
 
   .ic-therm {
-    width: 33px;
-    transform: translate(-204px, 13px);
+    width: 35px;
+    transform: translate(-237px, 54px);
   }
 
   .ic-hum{
-    width: 38px;
-    transform: translate(-100px, -70px);
+    width: 42px;
+    transform: translate(-83px, -76px);
+  }
+
+  .ic-heating {
+    width: 54px;
+    transform: translate(-196px, -47px);
+  }
+
+  .ic-sal {
+    width: 53px;
+    transform: translate(32px, -155px);
   }
 
   .ic-ph{
-    width: 49px;
-    transform: translate(13px, -71px);
+    width: 50px;
+    transform: translate(22px, -47px);
   }
 
   .ic-oxi{
-    width: 100px;
-    transform: translate(58px, -218px);
+    width: 106px;
+    transform: translate(99px, -246px);
   }
 
   .modal-box {

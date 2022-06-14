@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="190.21" height="317.833" viewBox="0 0 190.21 317.833">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="215.253" height="235.987" viewBox="0 0 215.253 235.987">
   <defs>
-    <filter id="Tracciato_10" x="0" y="0" width="190.21" height="317.833" filterUnits="userSpaceOnUse">
+    <filter id="campylobacter_3" x="0" y="0" width="215.253" height="235.987" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur"/>
       <feFlood flood-opacity="0.161"/>
@@ -8,7 +8,7 @@
       <feComposite in="SourceGraphic"/>
     </filter>
   </defs>
-  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Tracciato_10)">
-    <path id="Tracciato_10-2" data-name="Tracciato 10" d="M1362.827,2773.309l147.527,72.546c-3.641,9.276-9.184,32.423-8.614,55.778.951,60.115,8.56,49.306,7.732,85.249-2.806,66.411-51.877,82.2-85.639,83.329s-61.639-13.512-61.639-13.512C1357.007,3043.333,1322.029,2927.044,1362.827,2773.309Z" transform="matrix(1, 0.02, -0.02, 1, -1280.51, -2790.33)" fill="#caead0"/>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#campylobacter_3)">
+    <path id="campylobacter_3-2" data-name="campylobacter_3" d="M1393.624,2845.65s-82.335-29.609-179.422-7.639l31.742,152.856c27.861-11.53,68.485-14.946,113.258,17.588,11.948,8.981,25.157,22.849,48.536,36.084,0,0-12.431-39.462-16.928-106.622C1388.416,2877.891,1393.624,2845.65,1393.624,2845.65Z" transform="matrix(1, 0.02, -0.02, 1, -1151.88, -2844.66)" fill="#caead0"/>
   </g>
 </svg>

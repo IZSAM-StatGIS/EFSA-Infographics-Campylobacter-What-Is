@@ -24,33 +24,43 @@ html{
 }
 
 .c1{
-  width: 128px;
-  transform: translate(-162px, 18px) rotate(-26deg);
+  width: 114px;
+  transform: translate(-173px, 60px) rotate(-26deg);
 }
 
 .c2{
-  width: 175px;
-  transform: translate(-129px, -44px) rotate(-26deg);
+  width: 130px;
+  transform: translate(-186px, -11px) rotate(-26deg);
 }
 
 .c3{
-  width: 113px;
-  transform: translate(6px, -139px) rotate(-26deg);
+  width: 128px;
+  transform: translate(-96px, -64px) rotate(-26deg);
 }
 
 .c4{
-  width: 218px;
-  transform: translate(-38px, -262px) rotate(-26deg);
+  width: 113px;
+  transform: translate(7px, -97px) rotate(-26deg);
 }
 
 .c5{
-  width: 112px;
-  transform: translate(-121px, 230px) rotate(-26deg);
+  width: 120px;
+  transform: translate(-33px, -189px) rotate(-26deg);
 }
 
 .c6{
-  width: 139px;
-  transform: translate(115px, -338px) rotate(-26deg);
+  width: 189px;
+  transform: translate(-29px, -274px) rotate(-26deg);
+}
+
+.c7{
+  width: 112px;
+  transform: translate(-138px, 237px) rotate(-26deg);
+}
+
+.c8{
+  width: 116px;
+  transform: translate(109px, -333px) rotate(-26deg);
 }
 
 .ic{
@@ -62,30 +72,40 @@ html{
   cursor: pointer;
 }
 
-.ic-therm:hover + .c1, .ic-hum:hover + .c2, .ic-ph:hover + .c3, .ic-oxi:hover + .c4{
-  filter: hue-rotate(35deg) saturate(1.95) brightness(0.8);
+.ic-therm {
+  width: 29px;
+  transform: translate(-124px, 139px);
 }
 
-.ic-therm {
-  width: 33px;
-  transform: translate(-120px, 93px);
+.ic-heating{
+  width: 55px;
+  transform: translate(-143px, 29px);
 }
 
 .ic-hum{
   width: 41px;
-  transform: translate(-66px, -19px);
+  transform: translate(-62px, -34px);
 }
 
 .ic-ph{
-  width: 49px;
-  transform: translate(33px, -71px) rotate(-16deg);
+  width: 42px;
+  transform: translate(39px, -49px) rotate(-16deg);
+}
+
+.ic-sal{
+  width: 53px;
+  transform: translate(2px, -147px);
 }
 
 .ic-oxi{
-  width: 93px;
-  transform: translate(14px, -224px) rotate(-16deg);
+  width: 84px;
+  transform: translate(26px, -252px) rotate(-16deg);
 }
 
+
+.ic-therm:hover + .c1, .ic-heating:hover + .c2, .ic-hum:hover + .c3, .ic-ph:hover + .c4, .ic-sal:hover + .c5, .ic-oxi:hover + .c6{
+  filter: hue-rotate(35deg) saturate(1.95) brightness(0.8);
+}
 
 /****************** MODAL *******************/
 

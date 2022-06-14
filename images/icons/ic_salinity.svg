@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="71.391" height="81.103" viewBox="0 0 71.391 81.103">
+  <defs>
+    <filter id="Tracciato_48" x="0" y="0" width="71.391" height="81.103" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Salinity" transform="translate(-1417.102 -339.982)">
+    <g transform="matrix(1, 0, 0, 1, 1417.1, 339.98)" filter="url(#Tracciato_48)">
+      <path id="Tracciato_48-2" data-name="Tracciato 48" d="M0,0H53.391l-3.23,8.056,3.23,48.574A6.472,6.472,0,0,1,46.919,63.1H6.472A6.472,6.472,0,0,1,0,56.631L3.67,8.056Z" transform="translate(9 6)" fill="#fff"/>
+    </g>
+    <path id="Tracciato_49" data-name="Tracciato 49" d="M28.948,34.062c7.093-.388,13.387-7.355,13.387-7.355l1.794,28.744a5.533,5.533,0,0,1-5.349,5.7H5.349A5.533,5.533,0,0,1,0,55.451L1.682,31.727a19.9,19.9,0,0,1,12.28-3.468C20.779,28.843,21.855,34.45,28.948,34.062Z" transform="translate(1430.732 343.716)" fill="#9ed3c8"/>
+    <path id="Poligono_1" data-name="Poligono 1" d="M3.5,0,7,7H0Z" transform="translate(1463.684 391.276)" fill="#fff"/>
+    <path id="Poligono_7" data-name="Poligono 7" d="M4,0,8,6H0Z" transform="translate(1441.999 385.655)" fill="#fff"/>
+    <path id="Poligono_4" data-name="Poligono 4" d="M4,0,8,6H0Z" transform="translate(1456.11 384.711)" fill="#fff"/>
+    <path id="Poligono_9" data-name="Poligono 9" d="M4,0,8,7H0Z" transform="translate(1446.702 394.625)" fill="#fff"/>
+    <path id="Poligono_3" data-name="Poligono 3" d="M4,0,8,6H0Z" transform="translate(1456.584 387.879) rotate(180)" fill="#fff"/>
+    <path id="Poligono_11" data-name="Poligono 11" d="M3.5,0,7,6H0Z" transform="translate(1470.684 388.823) rotate(180)" fill="#fff"/>
+    <path id="Poligono_10" data-name="Poligono 10" d="M4,0,8,6H0Z" transform="translate(1443.413 387.879) rotate(180)" fill="#fff"/>
+    <path id="Poligono_8" data-name="Poligono 8" d="M4,0,8,6H0Z" transform="translate(1445.295 399.625) rotate(180)" fill="#fff"/>
+    <path id="Poligono_5" data-name="Poligono 5" d="M4,0,8,7H0Z" transform="translate(1462.228 400.625) rotate(180)" fill="#fff"/>
+  </g>
+</svg>
