@@ -1,7 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="72.156" height="108.477" viewBox="0 0 72.156 108.477">
-  <g id="Cartina_tornasole" data-name="Cartina tornasole" transform="matrix(1, 0.017, -0.017, 1, 1.666, -0.541)">
-    <path id="Tracciato_4" data-name="Tracciato 4" d="M5.847,1.689,40.658,0s4.64,22.05-5.116,100.348L0,98.053S9.318,73.792,5.847,1.689Z" transform="translate(31.009 0) rotate(18)" fill="#fff"/>
-    <path id="Tracciato_5" data-name="Tracciato 5" d="M5.233,2.882S7.956,4.278,18.7,1.507,34.32.633,34.32.633s-.333,11.5-5.181,51.4L0,50.211S4.346,40.3,5.233,2.882Z" transform="translate(20.821 44.268) rotate(18)" fill="#9ed3c8"/>
-    <path id="Tracciato_6" data-name="Tracciato 6" d="M29.081,6.708s-4.612-1.931-15.253.8S0,8.973,0,8.973L.15,2.892S5.306,4.276,13.838,1.418A26.949,26.949,0,0,1,29.479.906Z" transform="translate(28.175 39.165) rotate(18)" fill="#dcf2e0"/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Livello_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 72.2 108.5" style="enable-background:new 0 0 72.2 108.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#1F6A99;}
+	.st2{fill:#89B9D8;}
+</style>
+<g id="ic_ph" transform="matrix(1, 0.017, -0.017, 1, 1.666, -0.541)">
+	<path id="Tracciato_4" class="st0" d="M36,3.4l33.6,9.2c0,0-2.4,22.4-35.9,93.9L0.7,93.3C0.7,93.3,17.1,73.1,36,3.4z"/>
+	<path id="Tracciato_5" class="st1" d="M24.9,48.6c0,0,2.2,2.2,13.2,2.9s15.1,4,15.1,4s-3.9,10.8-20.8,47.3L5.3,92
+		C5.3,92,12.5,83.9,24.9,48.6z"/>
+	<path id="Tracciato_6" class="st2" d="M53.8,54.5c0,0-3.8-3.3-14.8-4s-13.6-2.9-13.6-2.9l2-5.7c0,0,4.5,2.9,13.5,2.8
+		c5.3-0.1,10.6,1.4,15,4.3L53.8,54.5z"/>
+</g>
 </svg>

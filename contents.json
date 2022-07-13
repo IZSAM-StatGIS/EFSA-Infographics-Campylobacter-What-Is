@@ -23,11 +23,6 @@
     "title": "Salinity",
     "content": "Campylobacter has a low tolerance to salt, and it cannot grow with sodium chloride concentrations above 2.0%, with optimal growth at 0.5%. The concentrations are well below the ones used in those foods where salt is used as preservative.",
     "imgUrl": "images/icons/ic_salinity.svg"
-  },
-  "heating": {
-    "title": "Heating",
-    "content": "Campylobacter are very sensitive to heat. For example, 90% of Campylobacter bacteria mixed in minced meat will die in less than 9 minutes at 51 °C, in 4.85 min 53 °C and in 0.79 min at 57 °C.",
-    "imgUrl": "images/icons/ic_heating.svg"
   }
 
 }

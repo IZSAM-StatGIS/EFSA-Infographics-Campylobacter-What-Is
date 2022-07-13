@@ -1,14 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="215.253" height="235.987" viewBox="0 0 215.253 235.987">
-  <defs>
-    <filter id="campylobacter_3" x="0" y="0" width="215.253" height="235.987" filterUnits="userSpaceOnUse">
-      <feOffset dy="3" input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feFlood flood-opacity="0.161"/>
-      <feComposite operator="in" in2="blur"/>
-      <feComposite in="SourceGraphic"/>
-    </filter>
-  </defs>
-  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#campylobacter_3)">
-    <path id="campylobacter_3-2" data-name="campylobacter_3" d="M1393.624,2845.65s-82.335-29.609-179.422-7.639l31.742,152.856c27.861-11.53,68.485-14.946,113.258,17.588,11.948,8.981,25.157,22.849,48.536,36.084,0,0-12.431-39.462-16.928-106.622C1388.416,2877.891,1393.624,2845.65,1393.624,2845.65Z" transform="matrix(1, 0.02, -0.02, 1, -1151.88, -2844.66)" fill="#caead0"/>
-  </g>
-</svg>
+<?xml version="1.0" encoding="UTF-8"?><svg id="Livello_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 263.36 236"><defs><style>.cls-1{fill:#4da290;}</style></defs><g id="Campylobacter"><path class="cls-1" d="M27.14,0c30.21,4.81,47.14,10.45,79.13,30.47,0-.02,0-9.02,2.01-18.02l150,75c-1.2,17.34,.27,17.52,3.48,39.71,16.51,114.31-98.72,120.36-144.49,99.31C75.99,207.48,48.34,169.41,0,164.02L27.14,0Z"/></g></svg>

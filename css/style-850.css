@@ -8,23 +8,23 @@
   }
 
   .c2{
-    width: 149px;
-    transform: translate(-254px, -101px);
+    width: 188px;
+    transform: translate(-251px, -110px);
   }
 
   .c3{
-    width: 146px;
-    transform: translate(-132px, -110px);
+    width: 179px;
+    transform: translate(-80px, -107px);
   }
 
   .c4{
-    width: 127px;
-    transform: translate(-10px, -96px);
+    width: 135px;
+    transform: translate(-6px, -223px);
   }
 
   .c5{
-    width: 136px;
-    transform: translate(-3px, -206px);
+    width: 183px;
+    transform: translate(59px, -262px);
   }
 
   .c6{
@@ -34,7 +34,7 @@
 
   .c7{
     width: 112px;
-    transform: translate(-322px, 167px);
+    transform: translate(-322px, 175px);
   }
 
   .c8{
@@ -49,28 +49,23 @@
   }
 
   .ic-hum{
-    width: 42px;
-    transform: translate(-83px, -76px);
-  }
-
-  .ic-heating {
-    width: 54px;
-    transform: translate(-196px, -47px);
+    width: 45px;
+    transform: translate(-164px, -73px);
   }
 
   .ic-sal {
     width: 53px;
-    transform: translate(32px, -155px);
+    transform: translate(36px, -160px);
   }
 
   .ic-ph{
     width: 50px;
-    transform: translate(22px, -47px);
+    transform: translate(-9px, -59px) rotate(26deg);
   }
 
   .ic-oxi{
     width: 106px;
-    transform: translate(99px, -246px);
+    transform: translate(104px, -244px);
   }
 
 
@@ -83,7 +78,6 @@
   .modal-visual{
     height: 100%;
     width: 40%;
-    background-color: #236281;
   }
 
   .modal-contents{
