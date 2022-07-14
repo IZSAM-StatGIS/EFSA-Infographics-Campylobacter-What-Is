@@ -83,31 +83,61 @@ h1{
 
 .ic-therm {
   width: 22px;
-  transform: translate(-98px, 109px);
+  transform: translate(-97px, 102px);
 }
 
 .ic-hum{
   width: 33px;
-  transform: translate(-100px, 15px);
+  transform: translate(-101px, 9px);
 }
 
 .ic-ph{
   width: 33px;
-  transform: translate(0px, -20px) rotate(27deg);
+  transform: translate(0px, -27px) rotate(27deg);
 }
 
 .ic-sal{
   width: 36px;
-  transform: translate(-2px, -92px);
+  transform: translate(-4px, -98px);
 }
 
 .ic-oxi{
   width: 62px;
-  transform: translate(15px, -171px) rotate(-3deg);
+  transform: translate(15px, -178px) rotate(10deg);
 }
 
 .ic-therm:hover + .c1, .ic-hum:hover + .c2, .ic-ph:hover + .c3, .ic-sal:hover + .c4, .ic-oxi:hover + .c5{
   filter: saturate(0.75) brightness(1.2);
+}
+
+.t{
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 11;
+  font-size: .8rem;
+  color: #fff;
+}
+
+.t1 {
+  transform: translate(-103px, 151px);
+}
+
+.t2{
+  transform: translate(-102px, 54px);
+}
+
+.t3{
+  transform: translate(9px, 19px);
+}
+
+.t4{
+  transform: translate(-8px, -58px);
+}
+
+.t5{
+  transform: translate(15px, -140px);
 }
 
 
@@ -191,6 +221,7 @@ h1{
   top: 50%;
   left: 50%;
   height: 50%;
+  max-height: 150px;
   transform: translate(-50%, -50%);
 }
 

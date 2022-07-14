@@ -1,27 +1,27 @@
 {
   "temperature": {
     "title": "Temperature",
-    "content": "Most relevant species of Campylobacter can grow at a temperature between 30 and 42 °C, although their optimal range is 37-42 °C. Even if they cannot grow below 30 °C, they can survive at lower temperature, including refrigeration ones, such as -4°C.",
+    "content": "Most relevant species of <i>Campylobacter</i> can grow at a temperature between 30°C and 42°C, although their optimal range is 37-42°C. Even if they cannot grow below 30°C, they can survive at lower temperature, including refrigeration ones, such as -4°C.<br><i>Campylobacter</i> are very sensitive to heat. For example, 90% of <i>Campylobacter</i> bacteria mixed in minced meat will be inactivated in less than 9 minutes at 51°C, in 4.85 min at 53°C and in 0.79 min at 57°C",
     "imgUrl": "images/icons/ic_therm.svg"
   },
   "oxygen": {
     "title": "Oxygen",
-    "content": "Campylobacter are “microaerophilic” organisms, meaning that they require oxygen, but at a lower concentration (3-15%) than the one found in the atmosphere (21%) and an elevated concentration of carbon dioxide (10% CO2)\n",
+    "content": "<i>Campylobacter</i> are “microaerophilic” organisms, meaning that they require oxygen, but at a lower concentration (3-15%) than the one found in the atmosphere (21%) and an elevated concentration of carbon dioxide (10% CO2).",
     "imgUrl": "images/icons/ic_oxi.svg"
   },
   "ph": {
-    "title": "Ph range",
-    "content": "Campylobacter cannot survive below a pH of 4.9 and above pH 9.0 and can grow optimally at pH 6.5–7.5.",
+    "title": "pH",
+    "content": "<i>Campylobacter</i> cannot survive below a pH of 4.9 and above pH 9.0 and can grow optimally at pH 6.5–7.5.",
     "imgUrl": "images/icons/ic_ph.svg"
   },
   "humidity": {
     "title": "Water",
-    "content": "With a water activity of 0.987, Campylobater is very sensible to dry environment.",
+    "content": "<i>Campylobacter</i> can grow with a water activity (aw) > 0.987, thus is very susceptible to dry environment.",
     "imgUrl": "images/icons/ic_hum.svg"
   },
   "salinity": {
     "title": "Salinity",
-    "content": "Campylobacter has a low tolerance to salt, and it cannot grow with sodium chloride concentrations above 2.0%, with optimal growth at 0.5%. The concentrations are well below the ones used in those foods where salt is used as preservative.",
+    "content": "<i>Campylobacter</i> has a low tolerance to salt, and it cannot grow with sodium chloride concentrations above 2.0%, with optimal growth at 0.5%. These concentrations are well below the ones used in those foods where salt is used as preservative.",
     "imgUrl": "images/icons/ic_salinity.svg"
   }
 

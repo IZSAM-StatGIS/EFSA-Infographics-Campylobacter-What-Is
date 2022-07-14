@@ -45,30 +45,54 @@
     transform: translate(234px, -291px);
   }
 
+  .t{
+    font-size: 1rem;
+  }
+
+  .t1{
+    transform: translate(-241px, 111px);
+  }
+
+  .t2{
+    transform: translate(-163px, -18px);
+  }
+
+  .t3 {
+    transform: translate(13px, -9px);
+  }
+
+  .t4{
+    transform: translate(36px, -119px);
+  }
+
+  .t5 {
+      transform: translate(129px, -197px);
+  }
+
 
   .ic-therm {
     width: 35px;
-    transform: translate(-237px, 54px);
+    transform: translate(-237px, 32px);
   }
 
   .ic-hum{
     width: 45px;
-    transform: translate(-164px, -73px);
+    transform: translate(-164px, -84px);
   }
 
   .ic-sal {
     width: 53px;
-    transform: translate(36px, -160px);
+    transform: translate(36px, -176px);
   }
 
   .ic-ph{
     width: 50px;
-    transform: translate(-9px, -59px) rotate(26deg);
+    transform: translate(-16px, -69px) rotate(26deg);
   }
 
   .ic-oxi{
     width: 106px;
-    transform: translate(104px, -244px);
+    transform: translate(104px, -260px) rotate(11deg);
   }
 
 
